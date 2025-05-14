@@ -11,3 +11,6 @@ https://github.com/augustosalazar/f_shared_prefs
 
 Run the integration test with:  
 flutter drive --driver test_driver/integration_test.dart --target integration_test/app_test.dart
+
+![image](https://github.com/user-attachments/assets/43f983e6-85ba-47e9-a57c-77ce9265a15a)
+
